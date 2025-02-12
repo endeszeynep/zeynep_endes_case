@@ -1,0 +1,12 @@
+
+<suite name="mySuite">
+<tests name="MyTest">
+    <test name="Test Insider Careers">
+        <parameter name="browser" value="Chrome" />
+        <classes>
+            <class name="src/test/java/RunTestCases.java"/>
+        </classes>
+    </test>
+</tests>
+
+</suite>
